@@ -1,0 +1,45 @@
+
+#header {
+
+    background-color: #404040;
+    border: 3px solid #404040;
+    font-family: Roboto, sans-serif;
+    text-shadow: 1px 1px 2px black;
+}
+
+#main-header {
+    font-size: 2em;
+    color: white;
+    margin-left: 20px;
+}
+
+.nav-buttons {
+    color: white;
+    margin-left: 20px;
+}
+
+#sandbox-box {
+    margin-left: 700px;
+    margin-top: 0;
+}
+
+#sandbox {
+    width: 38em;
+    background: transparent;
+}
+
+body {
+    background-color: #dfdfdf;
+}
+
+#introduction-box {
+
+    margin-top: 30px;
+
+
+}
+#introduction {
+    font-family: "Roboto Light", sans-serif;
+    font-size: 1.5em;
+    text-shadow: 1px 1px 1px black;
+}
